@@ -5,13 +5,13 @@
 </p>
 
 ```text
-┌─ VIBIN'.NFO ────────────────────────────┐
+┌─ VIBIN'.NFO ───────────────────────────┐
 │                                        │
-│  METHOD .......... make no mistakes     │
-│  IMPLEMENTATION .. auto mode            │
-│  CODE REVIEW ..... looks good to me     │
+│  METHOD .......... make no mistakes    │
+│  IMPLEMENTATION .. auto mode           │
+│  CODE REVIEW ..... looks good to me    │
 │                                        │
-└──────────────────────── end of file ────┘
+└─────────────────────── end of file ────┘
 ```
 
 ---
