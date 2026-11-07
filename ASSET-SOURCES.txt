@@ -3,3 +3,39 @@ Original footer web buttons downloaded unchanged from ComfyBox.
 https://comfybox.floofey.dog/imgs/buttons/getacomp.jpg
 https://comfybox.floofey.dog/imgs/buttons/imissxp.gif
 https://comfybox.floofey.dog/imgs/buttons/winamp.gif
+
+A90 web buttons by Cody Collier, downloaded unchanged.
+Gallery: https://a90.com/experiments/88x31/
+Original post: https://x.com/codycollier/status/2118696130691445130
+Display size: 88x31; original files: 352x124.
+
+https://a90.com/experiments/88x31/hotgpus.gif
+https://a90.com/experiments/88x31/webuy.gif
+https://a90.com/experiments/88x31/skillmd.gif
+https://a90.com/experiments/88x31/injection.gif
+https://a90.com/experiments/88x31/sharpie.gif
+https://a90.com/experiments/88x31/claude.gif
+https://a90.com/experiments/88x31/vows.gif
+https://a90.com/experiments/88x31/deprecated.gif
+https://a90.com/experiments/88x31/grok.gif
+https://a90.com/experiments/88x31/slots.gif
+https://a90.com/experiments/88x31/arcade.gif
+https://a90.com/experiments/88x31/vibecard.gif
+https://a90.com/experiments/88x31/hallucinating.gif
+https://a90.com/experiments/88x31/robots.gif
+https://a90.com/experiments/88x31/thinking.gif
+https://a90.com/experiments/88x31/musegym.gif
+https://a90.com/experiments/88x31/nametag.gif
+https://a90.com/experiments/88x31/phd.gif
+https://a90.com/experiments/88x31/thinkdiff.gif
+https://a90.com/experiments/88x31/moat.gif
+https://a90.com/experiments/88x31/yc.gif
+https://a90.com/experiments/88x31/emdash.gif
+https://a90.com/experiments/88x31/wrapper.gif
+https://a90.com/experiments/88x31/ignore.gif
+https://a90.com/experiments/88x31/vibes.gif
+https://a90.com/experiments/88x31/allow.gif
+https://a90.com/experiments/88x31/smile.gif
+https://a90.com/experiments/88x31/riskfactors.gif
+https://a90.com/experiments/88x31/coreweave.gif
+https://a90.com/experiments/88x31/pelican.gif
