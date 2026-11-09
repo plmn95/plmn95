@@ -1,18 +1,6 @@
 <p align="center">
-  <img src="assets/vibin-banner.gif" width="840" alt="VIBIN’ — plmn95’s personal homepage" />
-  <br />
   <img src="assets/ticker.gif" width="840" alt="Make no mistakes / auto mode / looks good to me" />
 </p>
-
-```text
-┌─ VIBIN'.NFO ───────────────────────────┐
-│                                        │
-│  METHOD .......... make no mistakes    │
-│  IMPLEMENTATION .. auto mode           │
-│  CODE REVIEW ..... looks good to me    │
-│                                        │
-└─────────────────────── end of file ────┘
-```
 
 ---
 
