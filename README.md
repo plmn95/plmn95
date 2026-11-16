@@ -41,8 +41,3 @@
   <a href="https://a90.com/experiments/88x31/#smile"><img src="assets/buttons/smile.gif" width="88" height="31" alt="Smile! You&#x27;re training data." /></a>
   <a href="https://a90.com/experiments/88x31/#coreweave"><img src="assets/buttons/coreweave.gif" width="88" height="31" alt="GPUs 4 rent, call now" /></a>
 </p>
-
-<p align="center"><sub>Buttons by <a href="https://a90.com/experiments/88x31/">Cody Collier / A90</a></sub></p>
-
-<!-- Logo made with CoolText: https://cooltext.com/ -->
-<!-- Original web buttons from ComfyBox: https://comfybox.floofey.dog/ -->
